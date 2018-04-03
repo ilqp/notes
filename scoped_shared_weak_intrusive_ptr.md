@@ -1,11 +1,15 @@
-**1) What is the difference between the following set of pointers?** 
+**1) What is the difference between the following set of pointers?**
+
 **2) When do you use each pointer in production code, if at all?**
 
 Examples would be appreciated!
 
 1) scoped_ptr
+
 2) shared_ptr
+
 3) weak_ptr
+
 4) intrusive_ptr
 
 **3) Do you use boost in production code?**
@@ -16,9 +20,11 @@ Examples would be appreciated!
 
 It's easy when you have **properties** that you can assign each smart pointer. There are three important properties.
 
-**1) no ownership at all
-2) transfer of ownership
-3) share of ownership**
+**1) no ownership at all**
+
+**2) transfer of ownership**
+
+**3) share of ownership**
 
 **The first** means that a 'smart pointer' cannot delete the object, because it doesn't own it.
 
