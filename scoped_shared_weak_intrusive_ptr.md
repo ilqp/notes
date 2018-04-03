@@ -1,17 +1,16 @@
 https://stackoverflow.com/questions/569775/smart-pointers-boost-explained
 
-**1) What is the difference between the following set of pointers?**
-
-**2) When do you use each pointer in production code, if at all?**
+**1. What is the difference between the following set of pointers?
+2. When do you use each pointer in production code, if at all?**
 
 Examples would be appreciated!
 
-1. scoped_ptr
-2. shared_ptr
-3. weak_ptr
-4. intrusive_ptr
+..1. scoped_ptr
+..2. shared_ptr
+..3. weak_ptr
+..4. intrusive_ptr
 
-**3) Do you use boost in production code?**
+**3. Do you use boost in production code?**
 
 ----------------------------------------------------------------
 
