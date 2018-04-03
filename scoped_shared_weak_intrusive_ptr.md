@@ -5,10 +5,10 @@ https://stackoverflow.com/questions/569775/smart-pointers-boost-explained
 
 Examples would be appreciated!
 
-..1. scoped_ptr
-..2. shared_ptr
-..3. weak_ptr
-..4. intrusive_ptr
+1. scoped_ptr
+2. shared_ptr
+3. weak_ptr
+4. intrusive_ptr
 
 **3. Do you use boost in production code?**
 
